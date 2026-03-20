@@ -1,6 +1,10 @@
-print("ПР-1 індивідуальне завдання варіант 12")
-text = 'Печенюк Д. ПЗ-25-2'
-print(text)
+name = "Дмитро"
+surname = "Печенюк"
+group = "ПЗ-25-2"
+
+conclusion = "Індивідуальне завдання №2" + "\n" + group + "\n" + surname + " " + name
+print(conclusion)
+
 p=6
 q=-1
 u=7
